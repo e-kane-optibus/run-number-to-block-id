@@ -1,4 +1,4 @@
-# trip-run-number-to-block-id
+# run-number-to-block-id
 
 ## Purpose
 This script replaces all values in the run_number column with the corresponding values in the block_id column of runcut.txt.
